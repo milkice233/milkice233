@@ -1,4 +1,6 @@
-### Hi there 👋
+![Signature](https://raw.githubusercontent.com/milkice233/milkice233/master/sig.svg)
+
+*Picture above is my signature as well as a sentence inspired by a naughty cat.*
 
 <!--
 **milkice233/milkice233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">Under construction.</p>
+
+
+
